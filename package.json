@@ -1,0 +1,32 @@
+{
+  "name": "ipsumet",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "keywords": [
+    "ng",
+    "ut",
+    "dolor",
+    "annotate",
+    "recusandae"
+  ],
+  "author": "SoniaBoyer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WymanMills/ipsumet.git"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.4",
+    "@types/node": "^12.6.8",
+    "rimraf": "^3.0.2",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@phenomnomnominal/tsquery": "^3.0.0",
+    "debug": "^4.1.1"
+  },
+  "peerDependencies": {
+    "typescript": "^3"
+  }
+}
